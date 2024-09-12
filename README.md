@@ -10,7 +10,7 @@ This Python script automates the process of running the Upwork tracker. It simul
 
 For this, I present to you: *creak-track*.
 
-*creak-track* is a lightweight script written in Python. Which uses [pyautogui]([https://pytube.io](https://pyautogui.readthedocs.org)) library
+*creak-track* is a lightweight script written in Python. Which uses [pyautogui](https://pyautogui.readthedocs.org) library
 dependencies and aims to be highly reliable.
 
 ## Features

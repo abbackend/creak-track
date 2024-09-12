@@ -2,11 +2,11 @@
 
 # Creak Track
 
-This is a genuine, lightweight Python script for automates the process of running the Upwork tracker.
+This is a genuine, lightweight Python script for automates the process of running the activity logging tracker.
 
 ## Description
 
-This Python script automates the process of running the Upwork tracker. It simulates user interactions such as clicking, pressing buttons, and switching tabs, while logging each activity in real-time. Designed for seamless task automation, this tool ensures efficient tracking without manual intervention, streamlining workflows for Upwork users.
+This Python script automates the process of running the activity logging tracker. It simulates user interactions such as clicking, pressing buttons, and switching tabs, while logging each activity in real-time. Designed for seamless task automation, this tool ensures efficient tracking without manual intervention, streamlining workflows for Upwork users.
 
 For this, I present to you: *creak-track*.
 

@@ -6,7 +6,7 @@ This is a genuine, lightweight Python script for automates the process of runnin
 
 ## Description
 
-This Python script automates the process of running the activity logging tracker. It simulates user interactions such as clicking, pressing buttons, and switching tabs, while logging each activity in real-time. Designed for seamless task automation, this tool ensures efficient tracking without manual intervention, streamlining workflows for Upwork users.
+This Python script automates the process of running the activity logging tracker. It simulates user interactions such as clicking, pressing buttons, and switching tabs, while logging each activity in real-time. Designed for seamless task automation, this tool ensures efficient tracking without manual intervention, streamlining workflows for users.
 
 For this, I present to you: *creak-track*.
 
@@ -15,9 +15,10 @@ dependencies and aims to be highly reliable.
 
 ## Features
 
-- Auto button click.
-- Auto keyword click.
+- Auto button clicks.
+- Auto keybord clicks.
 - Auto switch tabs (for editor)
+- Logs file for each activity record
 
 ### Installation
 
